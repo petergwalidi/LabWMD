@@ -117,10 +117,4 @@ section {
 .contactform button:hover{
     background-color: #1a4d80;
 }
-.active{
 
-    color: #fff;
-  background-color: #007bff; /* blue background */
-  border-radius: 5px;
-  padding: 5px 10px;
-}
